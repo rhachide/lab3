@@ -1,0 +1,30 @@
+question 4 :  1 repertoire et 4 fichiers 
+question 5 : la taille du répertoire n'est pas correcte car il affiche la taille du pointeur 
+question 6 : avec la commande du on a 36k oct et avec ls on a 34k oct car le disque occupe un peu plus que sa vraie taille ( du donne la taille du fichier seul mais ls -rt donne la taille du fichier dans le disque ) 
+question 8 : oui il s'agit su fichier -git lightbulb avec la commande ls -d .*
+question 9 : ls -lrt ou ls -lart qui affiche tous même les cachés 
+question 10 : ls -lSr
+question 11 : cat answering-machine.txt
+question 12 : cat answering-machine.txt  | less on appui sur z pour descendre et sur q pour quitter 
+question 13 : sudo apt install vim ( sudo pour dire que c'est nous l'utilisateur ), 
+question 14 : on appui sur G pour acceder a la fin du fichier aprés on appui sur i pour commencer a ecrire aprés on appui sur x pour sauvegarder et sortir 
+question 15 : on rentre dans le fichier on met /gravelly on le suppr aprés :x pour enregistrer et sortir 
+question 16 : :x pour sauvegarder et quitter le fichier en même temps 
+question 17 : /planet aprés n pour acceder au autres
+question 19 : ?BEEP pour acceder au dernier BEEP aprés n pour voir les precedents 
+question 20 : il faut d'abord acceder au repertoire sardar aprés ecrire tail -20 sardar3.txt
+question 21 : il faut faire grep -Rinw 'trust' /home/student/Desktop/lab3/5AS05-partie3/Microsoft
+question 22 : grep -Rinw 'money' /home/student/Desktop/lab3/5AS05-partie3
+question 23 : grep -ri money 
+question 24 : mv .lightbulb lightbulb 
+question 26 : mv sardar3.txt /home/student/Desktop/lab3
+question 28 : rm Microsoft 
+question 29 : tar cvf archive.tar lab3/
+question 30 : ln -s sardar+le lien lien_sardar 
+question 31 : le lien est facile a identifié
+question 32 : le lien sardar deviens rouge ( le lien est cassé ) 
+question 33 : pas la peine de la faire parceque on a pas imposé a ne pas ecrire ou ne pas lire un truc donc il va rien se passer 
+question 34 : ls -l
+question 35 : cours changement de droit d'ecrire ou de lire ( chmod uw supp le droit d'ecrire )  
+question 36 : deja fait avant 
+question 37 : tar -tf archive.tar

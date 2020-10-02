@@ -1,0 +1,287 @@
+    1  q
+    2  a
+    3  aa
+    4  a
+    5  aa
+    6  sudo apt-get install vim
+    7  sudo apt install libssl-dev bison flex
+    8  sudo apt install qt5-default pkg-config
+    9  ls
+   10  *
+   11  ls
+   12  time
+   13  ls
+   14  time
+   15  date
+   16  ls
+   17  date
+   18  ls
+   19  *
+   20  ls
+   21  cd Desktop/
+   22  ls
+   23  *
+   24  ls
+   25  cd Desktop/
+   26  mkdir lab2
+   27  cd lab2
+   28  sudo apt install git gitk git -email
+   29  sudo apt install git gitk-email
+   30  sudo reboot
+   31  sudo apt install git gitk-email
+   32  sudo apt install git gitk git-email
+   33  git config --global user.Mehdi
+   34  git config --global user.mehdirhachide@gmail.com
+   35  git config --global user."Mehdi"
+   36  git config --global user."mehdirhachide@gmail.com"
+   37  git config --list
+   38  git config --global user.name "Mehdi"
+   39  git config --global user.name "mehdirhachide@gmail.com"
+   40  git config --list
+   41  git config --global user.email "mehdirhachide@gmail.com"
+   42  git config --list
+   43  git config --global user.name "mehdi"
+   44  git config --list
+   45  git config --global user.name "mehdi"
+   46  git config --global user.email "mehdirhachide@gmail.com"
+   47  git config --global user.name 
+   48  git config --global user.email
+   49  mkdir lab2
+   50  rm lab2
+   51  rm -r lab2
+   52  mkdir lab2
+   53  cd lab2
+   54  vim
+   55  cat rhachide
+   56  pwd
+   57  cd ..
+   58  ls
+   59  rm -r lab2
+   60  cd desktop
+   61  cd Desktop
+   62  rm -r lab2
+   63  mkdir lab2
+   64  cd lab2
+   65  vim
+   66  cat rhachide
+   67  cd ..
+   68  git init lab2
+   69  git status
+   70  cd lab2
+   71  git status
+   72  git add rhachide
+   73  git status
+   74  ls
+   75  rm rhachide
+   76  vim
+   77  cat rhachide.txt 
+   78  git commit -m "hello M2 syscom"
+   79  git remote add origin https://github.com/rhachide/rhachide.git
+   80  git push -u origin master
+   81  git pull
+   82  cd 
+   83  cd $home
+   84  cd $Home
+   85  git clone https://github.com/rhachide/rhachide
+   86  ls
+   87  cd rhachide/
+   88  ls
+   89  git pull
+   90  history
+   91  history > lab2_rhachide.txt
+   92  ls
+   93  cat lab2_rhachide.txt 
+   94  ls
+   95  rm lab2_rhachide.txt 
+   96  ls
+   97  cd ..
+   98  ls
+   99  cd Desktop/lab2/
+  100  ls
+  101  history > lab2_rhachide.txt
+  102  ls
+  103  mkdir lab3
+  104  rm -r lab3
+  105  cd..
+  106  cd ..
+  107  mkdir lab3
+  108  git clone https://github.com/khachicha/5AS05-partie3.git
+  109  cd lab3
+  110  ls
+  111  cd ..
+  112  rm -r 5AS05-partie3/
+  113  rm 5AS05-partie3/
+  114  git rm 5AS05-partie3/
+  115  git rm -r 5AS05-partie3/
+  116  cd lab3
+  117  git clone https://github.com/khachicha/5AS05-partie3.git
+  118  ls -lrt
+  119  cd 5AS05-partie3/
+  120  ls -lrt
+  121  cd ..
+  122  ls
+  123  du Microsoft
+  124  ls
+  125  cd 5AS05-partie3/
+  126  du Microsoft
+  127  du -sh Microsoft 
+  128  ls -sh Microsoft 
+  129  ls -lh Microsoft 
+  130  ls -lrt
+  131  stat Microsoft 
+  132  cd Inode
+  133  ls -a
+  134  ls -d .*
+  135  ls -rt
+  136  ls -lrt
+  137  ls -r
+  138  ls -rt
+  139  ls -lsr
+  140  ls -lSr
+  141  ls -lart
+  142  ls -lrt
+  143  cat answering-machine.txt 
+  144  cat answering-machine.txt  | less
+  145  sudo apt install vim
+  146  vim answering-machine.txt 
+  147  cd sardar3
+  148  cd sardar3.txt
+  149  cd sardar
+  150  tail -20 sardar3.txt
+  151  cd ..
+  152  pwd 
+  153  grep -Rinw 'trust'/home/student/Desktop/lab3/5AS05-partie3
+  154  ls
+  155  grep -Rinw 'trust'/home/student/Desktop/lab3/5AS05-partie3 / Microsoft 
+  156  grep -Rinw 'trust'/home/student/Desktop/lab3/5AS05-partie3/Microsoft 
+  157  grep -Rinw 'trust' /home/student/Desktop/lab3/5AS05-partie3/Microsoft 
+  158  grep -Rinw 'money' /home/student/Desktop/lab3/5AS05-partie3
+  159  git add
+  160  grep -Rinw 'money' /home/student/Desktop/lab3/5AS05-partie3
+  161  grep -ri money
+  162  mv .lightbulb lightbulb
+  163  ls -lrt
+  164  ls
+  165  cd
+  166  cd..
+  167  pdw
+  168  pwd
+  169  cd sardar/
+  170  ls
+  171  cd Desktop
+  172  ls
+  173  cd lab3
+  174  ls
+  175  cd 5AS05-partie3/
+  176  ls
+  177  cd sardar/
+  178  pwd
+  179  history
+  180  mv sardar3.txt 
+  181  ls
+  182  pwd
+  183  mv sardar3.txt /home/student/Desktop/lab3
+  184  ls
+  185  cd lab3
+  186  cd ..
+  187  ls
+  188  cd lab3
+  189  cd ..
+  190  ls
+  191  cd lab3
+  192  ls
+  193  cd 5AS05-partie3/
+  194  ls
+  195  rm Microsoft
+  196  ls
+  197  cd ..
+  198  ls
+  199  cd ..
+  200  ls
+  201  cd Desktop
+  202  ls
+  203  pwd
+  204  cd lab3
+  205  ls
+  206  tar cvf archive.tar lab3/ 
+  207  cd ..
+  208  ls
+  209  tar cvf archive.tar lab3/
+  210  ls
+  211  cd ..
+  212  ls
+  213  cd Desktop
+  214  ls
+  215  ln -s sardar archive.tar
+  216  ls
+  217  cd lab3
+  218  ls
+  219  cd 5AS05-partie3/
+  220  ls
+  221  pwd
+  222  ln -s sardar//home/student/Desktop/lab3/5AS05-partie3 archive.tar
+  223  cd archive.tar
+  224  cd ..
+  225  ls
+  226  cd archive.tar
+  227  ls
+  228  cd lab3
+  229  ls
+  230  cd archive.tar
+  231  cd ..
+  232  ls
+  233  ln -s sardar//home/student/Desktop/lab3/5AS05-partie3
+  234  ls
+  235  ls -lrt
+  236  ln -s sardar//home/student/Desktop/lab3/5AS05-partie3 lien_sardar
+  237  ls
+  238  cd ..
+  239  ls
+  240  cd Desktop
+  241  cd /Desktop
+  242  cd
+  243  cd Home
+  244  cd home
+  245  cd home/
+  246  cd Desktop/
+  247  ls
+  248  ln -s sardar/lab3 lien_sardar
+  249  ls
+  250  ln -s sardar/home/student/Desktop/lab3/5AS05-partie3 lien_sar
+  251  ls
+  252  ls -lrt
+  253  cd..
+  254  cd lab3
+  255  pwd
+  256  cd ..
+  257  ln -s /home/student/Desktop/lab3
+  258  ln -s /home/student/Desktop/lab3 lien_sardar
+  259  ls
+  260  pwd
+  261  ls
+  262  cd lab3
+  263  ls
+  264  cd ..
+  265  ls
+  266  cd lab3
+  267  ls
+  268  cd 5AS05-partie3/
+  269  ls
+  270  cd sardar/
+  271  ls
+  272  rm sardar2.txt
+  273  cd ../..
+  274  ls
+  275  cd ..
+  276  LS
+  277  ls
+  278  ln -s /home/student/Desktop/lab3/5AS05-partie3/sardar/sardar1.txt lien1
+  279  ls
+  280  cd lab3/5AS05-partie3/sardar/
+  281  ls
+  282  rm sardar1.txt 
+  283  cd ../../..
+  284  ls
+  285  ls -l
+  286  tar -tf archive.tar
+  287  history
